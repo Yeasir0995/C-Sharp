@@ -4,21 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GameCode
+namespace Y001
 {
-    class GameCode
+    class Program
     {
         static void Main(string[] args)
         {
-            int totalSecondsPlayed = 120;
-            const int SecondsPerMinute = 60;
-            int minutesPlayed = totalSecondsPlayed / SecondsPerMinute;
-            int secondsPlayed = totalSecondsPlayed % SecondsPerMinute;
-            {
-                Console.WriteLine("Minutes Played: " + minutesPlayed);
-                Console.WriteLine("Seconds Played: " + secondsPlayed);
-            }
-            
+            string ourString;
+            ourString = Console.ReadLine();
+            Console.WriteLine(ourString);
+            int z,h;
+            double p;
+
+            ourString = Console.ReadLine();
+            z = Convert.ToInt32(Console.ReadLine());
+            p = Convert.ToDouble(Console.ReadLine());
+            h = Int32.Parse(Console.ReadLine());
+            // p = Console.ReadLine();
+            int n1, n2;
+            double p1, p2;
+            short b1, b2;
+
+
+
+
+
         }
     }
 }
