@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicInOut", "BasicInOut\BasicInOut.csproj", "{F6C35426-2D7A-44E4-ACC5-27ADA965E2AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise4", "..\..\..\..\Downloads\Compressed\_acd657086fdd2d7d96e45d36d2d5846c_1-3-Visual-Studio-Exercise-4-Solution\Exercise4\Exercise4\Exercise4.csproj", "{BA5785D7-28D6-410E-8D65-7E3CFBDA8FE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C35426-2D7A-44E4-ACC5-27ADA965E2AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C35426-2D7A-44E4-ACC5-27ADA965E2AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C35426-2D7A-44E4-ACC5-27ADA965E2AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C35426-2D7A-44E4-ACC5-27ADA965E2AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5785D7-28D6-410E-8D65-7E3CFBDA8FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5785D7-28D6-410E-8D65-7E3CFBDA8FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5785D7-28D6-410E-8D65-7E3CFBDA8FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5785D7-28D6-410E-8D65-7E3CFBDA8FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
